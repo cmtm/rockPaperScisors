@@ -1,0 +1,8 @@
+o iconsLeft.png
+o iconsRight.png
+o playerSelect.png
+o paper.png
+o rock.png
+o scissors.png
+o titleText.png
+
